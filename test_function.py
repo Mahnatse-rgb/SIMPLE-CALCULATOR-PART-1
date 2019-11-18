@@ -24,6 +24,6 @@ def multiplying (*m):
     
     return multiplying
 
-print(multiplying(4.3,5))
+'''print(multiplying(4.3,5))'''
 
 
